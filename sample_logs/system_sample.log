@@ -1,0 +1,14 @@
+2024-05-20 10:15:23 INFO Service started: inventory-agent
+2024-05-20 10:15:45 WARNING Disk space low on /var/log: 12 percent remaining
+2024-05-20 10:16:02 ERROR Failed to rotate application log file
+2024-05-20 10:16:10 FAILED Password incorrect for local maintenance task
+2024-05-20 10:16:12 DENIED Access denied while opening /etc/app/private.conf
+2024-05-20 10:16:15 CRITICAL System crash detected in worker process
+2024-05-20 10:17:00 INFO Service restart requested: inventory-agent
+2024-05-20 10:17:06 WARNING service stopped unexpectedly: inventory-agent
+2024-05-20 10:17:14 ERROR service failed to start after restart
+2024-05-20 10:18:20 INFO Cleanup job finished
+2024-05-20 10:19:31 WARNING Timeout while contacting local update mirror 192.168.10.10
+2024-05-20 10:20:02 ERROR Permission denied writing cache file
+2024-05-20 10:21:44 CRITICAL Kernel watchdog reported crashed process
+2024-05-20 10:22:33 INFO Operator acknowledged disk warning
