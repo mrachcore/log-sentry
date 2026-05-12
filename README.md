@@ -1,6 +1,8 @@
 # LogSentry
 
-![LogSentry logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" width="120">
+</p>
 
 **Local log investigation and incident analysis dashboard built with Python and Streamlit.**
 
